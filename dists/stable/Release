@@ -1,0 +1,25 @@
+Origin: sworld
+Label: sworld
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: APT repository for Sworld projects
+Date: Thu, 16 Apr 2026 19:07:55 +0000
+Date: Thu, 16 Apr 2026 19:07:55 +0000
+MD5Sum:
+ 2111ec7612aed6ff51a0ca81f7eff571              222 Release
+ 4abcd8d87f216aff3abc683db5d9b557              811 main/binary-amd64/Packages
+ 9bcf49eed075d387d745cffeb0ccf23d              537 main/binary-amd64/Packages.gz
+SHA1:
+ c96931b665f6e2040dc4038682105b70d96a5ff4              222 Release
+ 0cf1eb8de16903b7dd7e32e8b90670b1a78200f9              811 main/binary-amd64/Packages
+ f2435d12f576513ffa9808a45ddfb08d576c0dfa              537 main/binary-amd64/Packages.gz
+SHA256:
+ 205b06657f544136816c222d378fd2b41a9db377eb39ef80699c8cb5a6648190              222 Release
+ f7c14df962a7b918c6e67afd53e1a38c9af4e25364fe69dca3993de5af698ff5              811 main/binary-amd64/Packages
+ cbe8ce5e8bbd639e2d93a47ab7f08d7ce41cbc4b26ff81cfb5e0cad9c1f8dd9c              537 main/binary-amd64/Packages.gz
+SHA512:
+ 0fac62bd7ca74fd30ea9afa83ada443858fe5c3314ee1e0a262480b13b9cbf25b16351f4fba6620e26d6cc457e00f1eafcb65640d16e1d2c5c96398053f6eb81              222 Release
+ 427340925fc9178841d022d6e801bdc6f0432ea85b8acd084ef2990613a2a8fa8a44bcbe3ee33f69cf9efdd8d96f0a58dcfe56e0c4dfc52df0e326fd86c16f39              811 main/binary-amd64/Packages
+ 054e6661305dada6cecff83bd6f166ef87394a876ea6bab86452a536aa68724bb4416ed1ac399341157309791c49f3b2395af6d1020b53b6cb97e0afc21a77db              537 main/binary-amd64/Packages.gz
