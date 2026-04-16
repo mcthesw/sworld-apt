@@ -1,15 +1,18 @@
-# easy-nats APT repository
+# APT Repository
 
-APT package repository for [easy-nats](https://github.com/mcthesw/easy-nats).
+APT package repository for Sworld's projects.
 
-## Setup
+## Available
+
+| Package | Description |
+|---------|-------------|
+| easy-nats | Desktop GUI client for NATS |
+
+## Usage
 
 ```bash
-# Add the repository
 echo "deb [trusted=yes] https://mcthesw.github.io/easy-nats-apt stable main" | \
-  sudo tee /etc/apt/sources.list.d/easy-nats.list
-
-# Install
+  sudo tee /etc/apt/sources.list.d/mcthesw.list
 sudo apt update
-sudo apt install easy-nats
+sudo apt install <package>
 ```
