@@ -94,3 +94,19 @@ Priority: optional
 Description: Desktop GUI client for NATS servers, JetStream, KV, and Object Store
  Easy NATS is a cross-platform desktop client for NATS. It provides a tabbed UI for managing connections, publishing and subscribing to subjects, browsing JetStream streams and consumers, and inspecting KV and Object Store buckets.
 
+Package: easy-nats
+Version: 0.1.9
+Architecture: amd64
+Maintainer: mcthesw
+Installed-Size: 26706
+Depends: libc6, libgcc-s1, libxkbcommon0, libxcb1, libxcb-render0, libxcb-shape0, libxcb-xfixes0, libgl1, libwayland-client0, libssl3 | libssl1.1
+Filename: pool/main/easy-nats_0.1.9_amd64.deb
+Size: 13697292
+MD5sum: 6c3309d32374ab37af4f7fe73d1c14ad
+SHA1: 0fbc3ece4acaa25b554cf641345b56d6cade3055
+SHA256: 5151eaa35f1c1efaabadac69862e5b581e769a4c0d6039a3bfef607aa661c7bd
+Section: net
+Priority: optional
+Description: Desktop GUI client for NATS servers, JetStream, KV, and Object Store
+ Easy NATS is a cross-platform desktop client for NATS. It provides a tabbed UI for managing connections, publishing and subscribing to subjects, browsing JetStream streams and consumers, and inspecting KV and Object Store buckets.
+
