@@ -5,21 +5,21 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: APT repository for Sworld projects
-Date: Mon, 27 Apr 2026 02:35:19 +0000
-Date: Mon, 27 Apr 2026 02:35:19 +0000
+Date: Wed, 29 Apr 2026 13:42:30 +0000
+Date: Wed, 29 Apr 2026 13:42:30 +0000
 MD5Sum:
- 7303414e6babaccca07a1ab416d1cee0              222 Release
- 7848d9cb225c6b1986936aa6532d849c             8929 main/binary-amd64/Packages
- d06680e2cdd18743ee5bd26a1836d969             1665 main/binary-amd64/Packages.gz
+ 14e410167eb44a133dc91631f42263e7              222 Release
+ aab9a19d2140c670571857e4b67f1d67             9742 main/binary-amd64/Packages
+ f133bdc98a2baf19c84481e48632f953             1777 main/binary-amd64/Packages.gz
 SHA1:
- 1cac792090f840d1e400b055efd676ab15b29200              222 Release
- 519b9399aa25046c135dd390ad62fcf5998b0e6d             8929 main/binary-amd64/Packages
- 73268eae16605efde3eed05245458b9cab525f32             1665 main/binary-amd64/Packages.gz
+ f88665b1d40d712bfc6542d64a5491a7a8e2a888              222 Release
+ a22922602ac2c5b0dfa09746cdcc2bada171764a             9742 main/binary-amd64/Packages
+ 07a498b2e8cac4c85a852bc83fb2494f6c647216             1777 main/binary-amd64/Packages.gz
 SHA256:
- d5f95f702e8c83089e5c858ce5088fc63cdafdaabb800b4c524834678a9763e3              222 Release
- 9bade4225870e56c9987416ab21fda22765f53df1ff8e58d999a32d5ff04f432             8929 main/binary-amd64/Packages
- 17aa987846e0313f4d917aa20d6dfe22c322b1960ae2a6fb74c711209e59dcb1             1665 main/binary-amd64/Packages.gz
+ 74c2a989ad98794312120ceed928618cece6a8e913624f259b046d222d058d14              222 Release
+ 1a318a0a1a89c91c9c30a2fe0121a496e4110bc3146319fb8b27225a04933b8d             9742 main/binary-amd64/Packages
+ ac2cb0022554e9e2ba4e6c5262aad74f2b86b11a90dab529dd7b5aa206b3be30             1777 main/binary-amd64/Packages.gz
 SHA512:
- 4be8773ac9229ba4117ec1bf98e10d2bda4039d1f9e01446fffb9ae3c57778768399302837e9bb1c3a7dc06407438937d45cec48958cd38a5180752c358d41e3              222 Release
- 3d02cd2fbd4a6b207a92185b42815fc51b6ac72ee6e85aeef4e2dc2d2df0ff9d091fadf9403c57029cd660433f04ddbd09edfb457c3a2652a396aa6ca7d9298e             8929 main/binary-amd64/Packages
- 2230d9d94c1b74bfd8f7f72ba77e288f4bc4713a6bfde4eff7ef9dfa493608feec5446599c86246989133b4d2629d957fb40bf60f7cf796e858bb435a99d72fa             1665 main/binary-amd64/Packages.gz
+ 37c6e34fe7c244ebfffa7a2056d01c9b07a1791119e164b9aec4f3008ee4d5a78c8e76ce2f6be2182262a043382316d6cff2fb461b3f3eaebac0ac1c27892b4b              222 Release
+ bf251df5a28e751a19ab6c1dc8622ed80e4a3481296af30dec17330d6a3c6f8b4bf86f4eb5b9e4cb6cad942eed80b3e937a30e1f7856a77c00e11b58574b537d             9742 main/binary-amd64/Packages
+ 395107f79be17fdffebbe5430946dca271774a1494f2d208db91f641f6abaf08253bb67eea466ee18d31ad84e9cc0e8c65e92b5ff0fabc8b946573f82becf549             1777 main/binary-amd64/Packages.gz
